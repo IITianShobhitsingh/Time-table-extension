@@ -34,3 +34,12 @@ td{
     display: flex;
     justify-content: center;
 }
+input[type="submit"]{
+    background-image:linear-gradient( to right, #5433ff, #20bdff, #a5fecb) ;
+    border-radius: 10px;
+    width: 50px;
+}
+input[type="submit"]:hover{
+    cursor: pointer;
+    background-image: linear-gradient(to right, #9cecfb, #65c7f7, #0052d4);
+}
