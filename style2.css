@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Palette+Mosaic&display=swap');
+body{
+    background-image: linear-gradient(to right, #f7971e, #ffd200);
+}
+h2{
+    padding: 20px;
+    text-align: center;
+    font-family:'Palette Mosaic' ,sans-serif;
+    font-weight: 5;
+    font-size: xx-large;
+}
+#form{
+    text-align: center;
+    border: black solid;
+    padding: 50px;
+}
