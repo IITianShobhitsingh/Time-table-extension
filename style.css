@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap'); 
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+body{ 
+    background: linear-gradient(to right, #8E54E9, #4776E6);
+}
+h1{
+    font-family: 'bungee',sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    margin-bottom: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+th{
+    border: black solid;
+    border-top-left-radius: 10px;
+    width: 200px;
+    background-image:linear-gradient(to right, #7f00ff, #e100ff) ;
+    
+}
+td{
+    border: black solid;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    background-image: linear-gradient(to right, #4e54c8, #8f94fb);
+    font-family: 'indie flower',sans-serif;
+    font-weight: 1000;
+    font-size: medium;
+    text-align: center;
+}
+.buttons{
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
