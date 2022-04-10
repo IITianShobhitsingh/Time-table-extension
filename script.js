@@ -6,6 +6,7 @@ addForm.addEventListener('submit',function(e){
     var hill=addForm.querySelector('input[type="url"]').value;
     console.log(fill);
     console.log(hill);
+    
 })
 
 
