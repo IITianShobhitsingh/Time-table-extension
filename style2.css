@@ -30,14 +30,14 @@ h2{
 .button{
     width:60px;
     border-color: #ffd200;
-      background: linear-gradient(to right, #fc00ff, #00dbde); 
+    background-image:  linear-gradient(to right, #fdfc47, #24fe41); 
     border-radius: 20px;
     padding:10px;
 }
 .button::after{
     width:10%;
     border-color: #ffd200;
-      background: linear-gradient(to right, #fc00ff, #00dbde);
+    background-image:  linear-gradient(to right, #b3ffab, #12fff7);
     height:20%;
 }
 .button:hover{
