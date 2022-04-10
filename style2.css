@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@200&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Puddles&display=swap');
 body{
-    background: linear-gradient(to right, #6a3093, #a044ff);
+    background: linear-gradient(to right, #fc00ff, #00dbde)
 }
 h2{
     padding: 20px;
@@ -13,7 +13,6 @@ h2{
 }
 #form{
     text-align: center;
-    border: black solid;
     padding: 60px;
     margin-top: 0;
     border-top-right-radius: 35px;
@@ -33,15 +32,10 @@ h2{
     background-image:  linear-gradient(to right, #fdfc47, #24fe41); 
     border-radius: 20px;
     padding:10px;
-}
-.button::after{
-    width:10%;
-    border-color: #ffd200;
-    background-image:  linear-gradient(to right, #b3ffab, #12fff7);
-    height:20%;
+    border: black solid;
 }
 .button:hover{
-    background-image:linear-gradient(to right, #fdfc47, #24fe41) ;
+    background-image:linear-gradient(lightgreen,yellow);
     cursor: pointer;
 }
 #joy{
