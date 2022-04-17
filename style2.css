@@ -45,3 +45,6 @@ h2{
 #hello{
     padding: 10px;
 }
+#backBtn:hover{
+    width: 42px;
+}
