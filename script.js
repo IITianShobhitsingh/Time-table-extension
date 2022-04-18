@@ -17,12 +17,13 @@ console.log(Array.isArray(neon));
 //     neon[i].appendChild(contentDiv);
 // }
 
-for(i = 0; i < 7){
-    for(j = 0; j < 8){
+for(i = 0; i < 7;){
+    for(j = 0; j < 8;){
         document.getElementById(`${i}${j}`)
         localStorage.getItem(`${i}${j}`)
 
     }
+}
 // }
 // const arr = [];
 
@@ -39,9 +40,3 @@ for(i = 0; i < 7){
 // const arr = JSON.parse('timetable');
 // arr[2][3] = {dfldf, dfdklflk};
 // localStorage.setItem('timetable', JSON.stringify(fldfl))
-
-
-
-
-
-
