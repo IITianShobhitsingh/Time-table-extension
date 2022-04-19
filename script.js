@@ -17,8 +17,8 @@ console.log(Array.isArray(neon));
 //     neon[i].appendChild(contentDiv);
 // }
 
-for(i = 0; i < 7;){
-    for(j = 0; j < 8;){
+for(i = 0; i < 7){
+    for(j = 0; j < 8){
         document.getElementById(`${i}${j}`)
         localStorage.getItem(`${i}${j}`)
 
