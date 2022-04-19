@@ -6,6 +6,7 @@
         "default_popup":"index.html",
         "default_icon":"list.png"
     },
+    "options_page":"options.html",
     "icons":{
         "128":"list.png"
 
